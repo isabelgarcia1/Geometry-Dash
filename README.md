@@ -4,4 +4,4 @@ El equipo de desarrollo es el de "las genias del caos" , formado por
 - Isabel
 - Paula
 - Nuria
-Esta es una edición del readme 
+ 

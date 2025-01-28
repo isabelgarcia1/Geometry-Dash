@@ -19,6 +19,7 @@ Después, hemos creado obstáculos para que el personaje los salte y, si se choc
 ##  Semana 2 (21/01/2015- 22/01/2025)
 
 Esta semana hemos añadido sonidos cuando el personaje choca y obstáculos complejos (triángulos y bloques). Además hemos configurado un nuevo código para que el  personaje pueda superar estos nuevos bloque.
+
 ![](https://i.postimg.cc/8cgP8C4r/Captura-de-pantalla-2025-01-21-142007.png)
 ![](https://i.postimg.cc/52K44gpJ/Captura-de-pantalla-2025-01-21-142229.png)
 

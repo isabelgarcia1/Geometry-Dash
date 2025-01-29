@@ -1,3 +1,4 @@
+
 # Geometry-Dash
 En este repositorio se van a ir guardando las distintas versiones de un juego en scracht cuya mecánica principal es superar obstáculos como clavos, bloques...
 El equipo de desarrollo es el de "las genias del caos" , formado por
@@ -24,3 +25,21 @@ Esta semana hemos añadido sonidos cuando el personaje choca y obstáculos compl
 ![](https://i.postimg.cc/52K44gpJ/Captura-de-pantalla-2025-01-21-142229.png)
 
 ![](https://i.postimg.cc/XvZVp5DC/Captura-de-pantalla-2025-01-22-101513.png)
+
+##  Semana 3 (27/01/2015- 31/01/2025)
+
+
+Se ha detectado un BUG que impedía que el personaje subiese por el bloque de cuadrados ya que lo detectaba como un pincho y perdía. Esto era debido a que el suelo, en el video, lo programa con un blanco puro, mientras que los pinchos (condición de derrota) con un blanco "amarillento" para que sean diferentes a la hora de detectarlos pero se vean parecidos.
+
+En la foto de abajo se puede ver que el código antes detectaba la muerte del jugador con el color blanco puro.
+
+[![image.png](https://i.postimg.cc/Nfg74XLr/image.png)](https://postimg.cc/s1NhfvYV)
+
+
+En la corrección ponemos el color blanco amarillento que tienen los pinchos en su linea de borde.
+
+[![image.png](https://i.postimg.cc/5NwTHLTY/image.png)](https://postimg.cc/0bycFM8P)
+
+Como se ve en la siguiente foto, los pinchos deben tener este color amarillento para diferenciarse del blanco del suelo sobre el que se mueve el personaje
+
+[![image.png](https://i.postimg.cc/QxHVhNyy/image.png)](https://postimg.cc/7frqN4D3)

@@ -16,7 +16,9 @@ En todos estos videos de griffpatch, un creador de contenido que publica tutoria
 
 ## Instrucciones para jugar y enlace al juego  
 El enlace al juego que hemos creado es el siguiente:
+
 https://scratch.mit.edu/projects/1129093290 
+
 Las instrucciones para jugar son las siguientes: 
 1. Para iniciar el juego, hay que pulsar en la bandera verde. 
 2. A continuación, el nivel empezará a avanzar y los obstáculos comenzarán a aparecer. Para saltarlos, lo único que hay que realizar es pulsa la barra espaciadora o el botón derecho del ratón.

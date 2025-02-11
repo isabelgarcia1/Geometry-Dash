@@ -1,14 +1,32 @@
 
 # Geometry-Dash
-En este repositorio se van a ir guardando las distintas versiones de un juego en scracht cuya mecánica principal es superar obstáculos como clavos, bloques...
-El equipo de desarrollo es el de "las genias del caos" , formado por
-- Isabel
-- Paula
-- Nuria
+ # Geometry Dash
 
-En primer lugar hemos abierto el archivo en scratch aunque todavía no hemos empezado a crear el código.
+## Título y descripción del juego  
+En este repositorio vamos a ir guardando las distintas versiones del juego que hemos creado. En concreto, hemos realizado la creación de un juego llamado Geometry Dash, cuya mecánica principal es superar obstáculos como pinchos, bloques...  De esta manera, el jugador recorre niveles que presentan obstáculos que debe superar. Para ello, basta con pulsar la barra espaciadora o el botón izquierdo del ratón.
+Este juego ha sido realiza por "las genias del caos", grupo formado por Isabel, Paula y Nuria. 
+
+## Materiales usados 
+
+Para dessarrollar este juego, nos hemos apoyado en los siguientes vídeos de Youtube: 
+https://www.youtube.com/watch?v=Zjt01j90crc&list=PLy4zsTUHwGJJnoXPSYlKQ15wedqB39W_E&pp=iAQB 
+En todos estos videos de griffpatch, un creador de contenido que publica tutoriales para crear videojuegos propios. En ellos, hemos aprendido a customizar el personaje y el fondo, a programar códigos para configurar los movimientos y saltos del personaje, y también a insertar imágenes y sonidos, todos ellos extraídos del propio scratch. 
+
+## Instrucciones para jugar y enlace al juego  
+El enlace al juego que hemos creado es el siguiente:
+https://scratch.mit.edu/projects/1129093290 
+Las instrucciones para jugar son las siguientes: 
+1. Para iniciar el juego, hay que pulsar en la bandera verde. 
+2. A continuación, el nivel empezará a avanzar y los obstáculos comenzarán a aparecer. Para saltarlos, lo único que hay que realizar es pulsa la barra espaciadora o el botón derecho del ratón.
+
+## Nombre del equipo y sus integrantes 
+
+ El equipo que ha elaborado el juego es el de "las genias del caos", cuyas integrantes son las alumnas Isabel García Jiménez, Paula Marín Alfocea y Nuria Marín Martínez. 
+
+## Diario de desarrollo 
+
  
- ## Semana 1 (14/01/2025- 15/01/2025)
+ ### Semana 1 (14/01/2025- 15/01/2025)
 Esta semana hemos llevado a cabo la creación del personaje del juego, además de la creación del fondo, el suelo, y la adición del sonido.  
 [![captura-2.png](https://i.postimg.cc/pL5LBPWt/captura-2.png)](https://postimg.cc/xXYQfDNs)
 
@@ -17,7 +35,7 @@ Después, hemos creado obstáculos para que el personaje los salte y, si se choc
 
 [![Captura-de-pantalla-2025-01-15-101221.png](https://i.postimg.cc/k5c3QHbm/Captura-de-pantalla-2025-01-15-101221.png)](https://postimg.cc/f3JrZBC2) 
 
-##  Semana 2 (21/01/2015- 22/01/2025)
+###  Semana 2 (21/01/2015- 22/01/2025)
 
 Esta semana hemos añadido sonidos cuando el personaje choca y obstáculos complejos (triángulos y bloques). Además hemos configurado un nuevo código para que el  personaje pueda superar estos nuevos bloque.
 
@@ -26,7 +44,7 @@ Esta semana hemos añadido sonidos cuando el personaje choca y obstáculos compl
 
 ![](https://i.postimg.cc/XvZVp5DC/Captura-de-pantalla-2025-01-22-101513.png)
 
-##  Semana 3 (27/01/2015- 31/01/2025)
+### Semana 3 (27/01/2015- 31/01/2025)
 
 
 Se ha detectado un BUG que impedía que el personaje subiese por el bloque de cuadrados ya que lo detectaba como un pincho y perdía. Esto era debido a que el suelo, en el video, lo programa con un blanco puro, mientras que los pinchos (condición de derrota) con un blanco "amarillento" para que sean diferentes a la hora de detectarlos pero se vean parecidos.
@@ -44,6 +62,6 @@ Como se ve en la siguiente foto, los pinchos deben tener este color amarillento 
 
 [![image.png](https://i.postimg.cc/QxHVhNyy/image.png)](https://postimg.cc/7frqN4D3)
 
-## Semana 4 (4-02-2025/5-02-2025)
+### Semana 4 (4-02-2025/5-02-2025)
 Hemos personalizado el juego con mas obstáculos, para que el personaje los supere. Además, hemos configurado el personaje para que el juego transcurra de manera correcta y hemos hecho que las colisiones sean mas fuertes.
 ![](https://i.postimg.cc/4NNpVFZc/Captura-de-pantalla-2025-02-05-101703.png) 

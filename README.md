@@ -10,6 +10,7 @@ Este juego ha sido realiza por "las genias del caos", grupo formado por Isabel, 
 
 Para dessarrollar este juego, nos hemos apoyado en los siguientes vídeos de Youtube: 
 https://www.youtube.com/watch?v=Zjt01j90crc&list=PLy4zsTUHwGJJnoXPSYlKQ15wedqB39W_E&pp=iAQB 
+
 En todos estos videos de griffpatch, un creador de contenido que publica tutoriales para crear videojuegos propios. En ellos, hemos aprendido a customizar el personaje y el fondo, a programar códigos para configurar los movimientos y saltos del personaje, y también a insertar imágenes y sonidos, todos ellos extraídos del propio scratch. 
 
 ## Instrucciones para jugar y enlace al juego  

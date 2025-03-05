@@ -77,6 +77,9 @@ Estos días hemos configurado el código del personaje para que gire cada 90º c
 ![](https://i.postimg.cc/jdZ7fXjT/Captura-de-pantalla-2-2025-02-26-101603.png)
 ![image](https://github.com/user-attachments/assets/ff050747-a4e6-479e-9bb1-ec29b72646d9)
 
+## Semana 6 (5-03-2025)
+
+Hemos creado dos script nuevos: uno para que se expanda un círculo cuando el jugador choca, y otro para que también se expandan partículas. Y también hemos configurado el código del jugador para que desaparezca al chocar.
 
  
 

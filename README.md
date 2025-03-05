@@ -75,6 +75,8 @@ Hemos personalizado el juego con mas obstáculos, para que el personaje los supe
 Estos días hemos configurado el código del personaje para que gire cada 90º cuando realice el salto. También hemos creado otro código, después de diseñar cuadrados pequeños, en el que hemos hecho que el jugador arrastre partículas de colores mientras está en movimiento.
 
 ![](https://i.postimg.cc/jdZ7fXjT/Captura-de-pantalla-2-2025-02-26-101603.png)
+![image](https://github.com/user-attachments/assets/ff050747-a4e6-479e-9bb1-ec29b72646d9)
+
 
  
 

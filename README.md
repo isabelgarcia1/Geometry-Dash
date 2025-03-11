@@ -1,6 +1,6 @@
 
 # Geometry-Dash
- # Geometry Dash
+ 
 
 ## Título y descripción del juego  
 En este repositorio vamos a ir guardando las distintas versiones del juego que hemos creado. En concreto, hemos realizado la creación de un juego llamado Geometry Dash, cuya mecánica principal es superar obstáculos como pinchos, bloques...  De esta manera, el jugador recorre niveles que presentan obstáculos que debe superar. Para ello, basta con pulsar la barra espaciadora o el botón izquierdo del ratón.

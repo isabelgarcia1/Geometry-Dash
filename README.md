@@ -85,6 +85,8 @@ Hemos creado dos script nuevos: uno para que se expanda un círculo cuando el ju
 ## Semana 7 (11-03-2025/12-03-2025)
 Esta semana hemos configurado el botón del menú, además de hacer que rebote al clicar con el ratón y que el jugador empiece a moverse.
 
+![image](https://github.com/user-attachments/assets/c173ddbe-b62e-4d9d-aa44-a2465a921898)
+
 
  
 

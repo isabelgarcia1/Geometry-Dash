@@ -87,7 +87,14 @@ Esta semana hemos configurado el botón del menú, además de hacer que rebote a
 
 ![image](https://github.com/user-attachments/assets/c173ddbe-b62e-4d9d-aa44-a2465a921898)
 
+## Semana 8 (25-03-25/26-03-25)
+Esta semana hemos añadido música al menú y hemos configurado el código del nivel para que, cuando el jugador ascienda por obstáculos altos, se desplace hacia arriba para dar más profundidad al juego. Además, hemos separado el suelo y los obstáculos en dos *sprite* distintos para asegurar que el suelo esté alienado en todo momento y hemos creado nuevos obstáculos más complejos
 
+![](https://i.postimg.cc/651h3383/Captura-de-pantalla-2025-03-26-101206.png)
+
+
+
+ 
  
 
 

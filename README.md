@@ -92,6 +92,13 @@ Esta semana hemos añadido música al menú y hemos configurado el código del n
 
 ![](https://i.postimg.cc/651h3383/Captura-de-pantalla-2025-03-26-101206.png)
 
+## Semana 9 (1-04-2025/2-04-2025)
+
+Esta semana hemos añadido nuevos obstáculos y también hemos creado un portal para cambiar de escenario donde el jugador tendrá la posibilidad de volar. Por tanto, hemos configurado el código para que cuando el jugador pase el portal, se monte en una nave, vuele con movimientos ascendentes y descendentes e incluso arrastre partículas.
+
+![](https://i.postimg.cc/6QbtMZnD/Captura-de-pantalla-2025-04-01-142531.png)
+![](https://i.postimg.cc/q7h5d69f/Captura-de-pantalla2-2025-04-01-142608.png)
+
 
 
  

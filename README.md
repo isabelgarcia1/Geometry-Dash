@@ -117,10 +117,7 @@ Esta semana hemos añadido nuevos obstáculos y también hemos creado un portal 
 ## Proyecto final
  En definitiva; el resultado global de nuestra versión de Pepa Dash aparece en el siguiente presentación:
  
- https://drive.google.com/drive/u/0/folders/1ir4im2J8EU_Dz5oNpFeHe71xrw3tcXy1
-
-
- 
+ https://drive.google.com/file/d/15dXd8VG49-SwK8r69Mz_puayCTsPACQD/view 
  
 
 

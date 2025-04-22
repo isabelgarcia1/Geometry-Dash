@@ -77,6 +77,7 @@ Tras nuestro trabajo durante la segunda evaluación, el juego que hemos obtenido
 
 
 https://scratch.mit.edu/projects/1135626138 
+
 Como vemos en la presentación adjuntada, actualmente el juego consiste en la superación de obstáculos de diversas dificultades. Para ello, lo único que hay que hacer  es pulsar la barra espaciadora o el botón izquierdo del ratón.
 
 https://drive.google.com/file/d/1As3Unz24RLZ4lVv0UEpFpY7KcGz8oyvG/view

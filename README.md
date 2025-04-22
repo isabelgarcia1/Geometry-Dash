@@ -70,6 +70,16 @@ Como se ve en la siguiente foto, los pinchos deben tener este color amarillento 
 Hemos personalizado el juego con mas obstáculos, para que el personaje los supere. Además, hemos configurado el personaje para que el juego transcurra de manera correcta y hemos hecho que las colisiones sean mas fuertes.
 ![](https://i.postimg.cc/4NNpVFZc/Captura-de-pantalla-2025-02-05-101703.png) 
 
+ 
+## Resultados de la beta
+
+Tras nuestro trabajo durante la segunda evaluación, el juego que hemos obtenido es el siguiente: 
+https://scratch.mit.edu/projects/1135626138 
+Como vemos en la presentación adjuntada, actualmente el juego consiste en la superación de obstáculos de diversas dificultades. Para ello, lo único que hay que hacer  es pulsar la barra espaciadora o el botón izquierdo del ratón.
+https://drive.google.com/file/d/1As3Unz24RLZ4lVv0UEpFpY7KcGz8oyvG/view 
+ Nuestros objetivos de cara a las tercera evaluación se hayan en mejorar la calidad de la partida, por ejemplo, añadiendo giros o partículas; también añadir obstáculos más complejos y crear una zona en la que el personaje puede montarse en una nave y volar.
+
+
 ## Semana 5 (25-02-2025/26-02-2025)
 
 Estos días hemos configurado el código del personaje para que gire cada 90º cuando realice el salto. También hemos creado otro código, después de diseñar cuadrados pequeños, en el que hemos hecho que el jugador arrastre partículas de colores mientras está en movimiento.

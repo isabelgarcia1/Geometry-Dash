@@ -113,7 +113,11 @@ Esta semana hemos añadido nuevos obstáculos y también hemos creado un portal 
 
 ![](https://i.postimg.cc/6QbtMZnD/Captura-de-pantalla-2025-04-01-142531.png)
 ![](https://i.postimg.cc/q7h5d69f/Captura-de-pantalla2-2025-04-01-142608.png)
-
+ 
+## Proyecto final
+ En definitiva; el resultado global de nuestra versión de Pepa Dash aparece en el siguiente presentación:
+ 
+ https://drive.google.com/drive/u/0/folders/1ir4im2J8EU_Dz5oNpFeHe71xrw3tcXy1
 
 
  

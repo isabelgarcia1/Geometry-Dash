@@ -15,9 +15,13 @@ https://www.youtube.com/watch?v=Zjt01j90crc&list=PLy4zsTUHwGJJnoXPSYlKQ15wedqB39
 En todos estos videos de griffpatch, un creador de contenido que publica tutoriales para crear videojuegos propios. En ellos, hemos aprendido a customizar el personaje y el fondo, a programar códigos para configurar los movimientos y saltos del personaje, y también a insertar imágenes y sonidos, todos ellos extraídos del propio scratch. 
 
 ## Instrucciones para jugar y enlace al juego  
-El enlace al juego que hemos creado es el siguiente:
+El enlace a la primera verión del juego que hemos creado es el siguiente:
 
 https://scratch.mit.edu/projects/1135626138
+
+El enlace a la versión definitiva del juego es el siguiente: 
+
+https://scratch.mit.edu/projects/1148934074
 
 Las instrucciones para jugar son las siguientes: 
 1. Para iniciar el juego, hay que pulsar en la bandera verde. 
@@ -118,6 +122,8 @@ Esta semana hemos añadido nuevos obstáculos y también hemos creado un portal 
  En definitiva; el resultado global de nuestra versión de Pepa Dash aparece en el siguiente presentación:
  
  https://drive.google.com/file/d/15dXd8VG49-SwK8r69Mz_puayCTsPACQD/view 
+
+ 
  
 
 
